@@ -1,0 +1,1 @@
+[{"argv":["python3","-c","print('hello from runner')"],"id":"hello","retries":0,"timeout":10},{"argv":["python3","--version"],"id":"check-python","retries":1,"timeout":10}]
